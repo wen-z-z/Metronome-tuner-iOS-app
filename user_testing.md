@@ -33,3 +33,12 @@ descript, so a beginner doesn't meddle and tune to the wrong reference
 note. It's not a functionality thats used often if at all, and theres no
 reason for it to be taking up front page space where you can mess it up 
 in one click.
+
+## Patterns across interviews
+One issue that every non-musician participant went through was the microphone tuner's pitch visualizer and how it was really wobbly. This issue persists across other tuning apps I've used and would do save beginner string players a lot of trouble with tuning if it was adjusted correctly. Another pattern I've noticed with every participant across all experience levels is how
+difficult it was to find the instruments section. This was mentioned extensively by Rui as well and is one of the main issues to tackle for the next version of the app.
+
+## Changes
+* Make the pitch visualizer more stable
+* Make the instruments section pop out more with different colors and bolder UI
+* Color changes to the reference pitch adjustment so it looks "off" when the reference pitch is not A = 440 Hz.
